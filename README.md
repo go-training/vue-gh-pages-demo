@@ -36,7 +36,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Create your access token
 
-![screen](./screenshots/New_personal_access_token.png)
+![New_personal_access_token](./screenshots/New_personal_access_token.png)
+
+## Setup custom domain
+
+![custom_domain](./screenshots/custom_domain.png)
 
 ## Deploy using Drone
 
