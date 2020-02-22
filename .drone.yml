@@ -18,10 +18,6 @@ steps:
   settings:
     username:
       from_secret: username
-    # password:
-    #   from_secret: password
-    user_name: appleboy
-    user_email: appleboy.tw@gmail.com
-    ssh_key:
-      from_secret: ssh_key
+    password:
+      from_secret: password
     pages_directory: dist
