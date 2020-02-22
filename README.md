@@ -40,7 +40,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Setup custom domain
 
-![custom_domain](./screenshots/custom_domain.png)
+![custom_domain](./screenshots/custom_domain_https.png)
 
 ## Deploy using Drone
 
