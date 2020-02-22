@@ -30,6 +30,10 @@ yarn lint
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+## Create your access token
+
+![screen](./screenshots/New_personal_access_token.png)
+
 ## Deploy using Drone
 
 ```yml
