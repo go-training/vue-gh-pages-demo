@@ -38,10 +38,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ![New_personal_access_token](./screenshots/New_personal_access_token.png)
 
-## Setup custom domain
-
-![custom_domain](./screenshots/custom_domain_https.png)
-
 ## Deploy using Drone
 
 ```yml
@@ -69,3 +65,7 @@ steps:
       from_secret: password
     pages_directory: dist
 ```
+
+## Setup custom domain
+
+![custom_domain](./screenshots/custom_domain_https.png)
