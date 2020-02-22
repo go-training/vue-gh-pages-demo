@@ -16,8 +16,12 @@ steps:
 - name: publish
   image: plugins/gh-pages
   settings:
-    username:
-      from_secret: username
-    password:
-      from_secret: password
+    # username:
+    #   from_secret: username
+    # password:
+    #   from_secret: password
+    user_name: appleboy
+    user_email: appleboy.tw@gmail.com
+    ssh_key:
+      from_secret: ssh_key
     pages_directory: dist
