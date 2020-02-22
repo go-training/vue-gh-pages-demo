@@ -2,6 +2,10 @@
 
 Deploy Vue.js app to GitHub Pages using drone in five minutes.
 
+[![Build Status](https://cloud.drone.io/api/badges/go-training/vue-gh-pages-demo/status.svg)](https://cloud.drone.io/go-training/vue-gh-pages-demo)
+
+See the [demo site](https://go-training.github.io/vue-gh-pages-demo/).
+
 ## Project setup
 
 ```sh
