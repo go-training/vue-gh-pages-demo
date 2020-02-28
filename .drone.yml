@@ -14,7 +14,6 @@ steps:
   commands:
   - yarn install
   - yarn build
-  - ls -al dist/
 
 - name: publish
   image: appleboy/gh-pages
