@@ -16,7 +16,7 @@ steps:
   - yarn build
 
 - name: publish
-  image: plugins/gh-pages
+  image: appleboy/gh-pages
   settings:
     username:
       from_secret: username
