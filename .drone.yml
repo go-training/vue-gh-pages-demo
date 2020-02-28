@@ -17,6 +17,7 @@ steps:
 
 - name: publish
   image: appleboy/gh-pages
+  pull: always
   settings:
     username:
       from_secret: username
